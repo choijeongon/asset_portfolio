@@ -7,7 +7,7 @@
 
 ## 1. 메인 화면(자산 포트폴리오 화면)
 * 등록 된 자산들을 원형 그래프로 확인할 수 있다.
-<img src="https://user-images.githubusercontent.com/79705809/111898245-2fe99080-8a68-11eb-9dde-93eee403a169.jpg"  width="324" height="720">
+<img src="https://user-images.githubusercontent.com/79705809/111913373-32bca380-8ab1-11eb-87e3-dcd7c66ec417.jpg"  width="324" height="720">
 * 메인 페이지에서 다양한 화면으로 이동할 수 있다.
 
 ---
