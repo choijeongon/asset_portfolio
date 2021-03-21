@@ -47,6 +47,8 @@
 
 <img src="https://user-images.githubusercontent.com/79705809/111898635-b0a98c00-8a6a-11eb-8b06-a3ec4e524a0a.jpg"  width="324" height="720">
 
+---
+
 ## 4. 자산 비중 화면
 * 등록된 자산들의 안전/위험 자산의 비중을 확인할 수 있다.
 
