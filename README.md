@@ -15,7 +15,7 @@
 ## 2. 주식 포트폴리오 화면
 * 등록된 자산 중 '주식'으로 등록된 자산을 원형 그래프로 확인할 수 있다.
 
-<img src="https://user-images.githubusercontent.com/79705809/111898254-38da6200-8a68-11eb-9d3d-d9e0616e54a6.jpg"  width="324" height="720">
+<img src="https://user-images.githubusercontent.com/79705809/111913455-7e6f4d00-8ab1-11eb-8dca-48728a216fb4.jpg"  width="324" height="720">
 
 ---
 
